@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+for row in $(jq -r '.folders | .[]' /home/$USER/folders.json); do
+  for f in $(ls $row)
+  do
+    if [ $1 == $f ]
+    then
+      cd $row$f
+    fi 
+  done
+done
