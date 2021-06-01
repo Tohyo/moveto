@@ -1,6 +1,6 @@
 {
     "folders": [
-        "/your/path",
-        "/another/path"
+        "/your/path/",
+        "/another/path/"
     ]
 }

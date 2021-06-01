@@ -6,7 +6,7 @@ This is a simple bash script to move between a set of defined directories
 
 Move the script to make it availble globaly
 
-`cp moveto /usr/local/bin` 
+`sudo cp moveto /usr/local/bin`
 
 Move the folders.json file into your home folder and edit it
 
