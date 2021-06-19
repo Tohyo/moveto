@@ -16,4 +16,4 @@ I also recommand adding a alias in your bash_aliases
 
 `alias m=". moveto"`
 
-NB: You need to add the dot before to run the execute the script in the same shell as you run it
+NB: You need to add the dot before to execute the script in the same shell as you run it
